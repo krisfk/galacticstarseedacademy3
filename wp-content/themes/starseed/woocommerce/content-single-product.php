@@ -60,7 +60,7 @@ global $product;
 
 
             <div class="text-end">
-
+test
                 <?php
 				echo apply_filters( 'woocommerce_loop_add_to_cart_link',
 				sprintf( '<a href="%s" rel="nofollow" data-product_id="%s" data-product_sku="%s" class="button %s product_type_%s">%s</a>',
