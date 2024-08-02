@@ -56,7 +56,7 @@ get_header(); ?>
 
 
 
-
+<!--
         <h1>關於星際種子學院</h1>
         <img class="alignnone wp-image-927 size-medium"
             src="<?php echo get_site_url(); ?>/wp-content/uploads/2023/11/starseed-new-logo-300x300.png" alt=""
@@ -71,6 +71,28 @@ get_header(); ?>
 
 
         </div>
+-->
+
+<?php 
+
+
+echo get_the_content();
+?>
+<!-- 
+<h1>我們的使命</h1>
+        <img class="alignnone wp-image-927 size-medium"
+            src="https://galacticstarseedacademy.com/wp-content/uploads/2023/11/starseed-new-logo-300x300.png" alt=""
+            width="300" height="300" />
+
+        <div class="mt-4 content-txt-div text-start ">
+
+
+        很感恩今天我們在這裏相遇上。星際種子學院是一間專注於提供能量服務和靈性提升課程的靈性機構，致力於透過推廣靈性修行幫助人從靈性和能量層面提升身心健康和吸引豐盛生命。我們相信每個人內心，其實都有一顆「星際種子」。星際種子並不只是指某個特定的群體，而是每一個人內心的一股力量，一股來自星系維度的力量。
+
+        </div> -->
+
+
+
 
     </div>
 </div>
