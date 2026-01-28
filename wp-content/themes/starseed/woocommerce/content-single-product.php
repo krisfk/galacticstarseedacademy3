@@ -63,7 +63,7 @@ global $product;
 <!-- test -->
  
 
-<span style="color:#722551;">如需查詢及預約請 whatsapp 69995659</span>
+<span style="color:#722551;">如需查詢及預約請 whatsapp 63891918</span>
 
 
 <!--

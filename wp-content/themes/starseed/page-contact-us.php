@@ -45,7 +45,7 @@ get_header(); ?>
                 <table class="text-start mx-auto" style="max-width:400px;">
                     <tr>
                         <td class="fw-bold">Whatsapp：</td>
-                        <td>69995659</td>
+                        <td>63891918</td>
                     </tr>
                     <tr>
                         <td class="fw-bold">Facebook：</td>

@@ -247,10 +247,10 @@ if( pms_is_member_of_plan( array( 178 ) )  || $expired)
                           // $('.add-to-cart-btn').closest('div').children().unwrap();
                           // $('.add-to-cart-btn').attr('class','add-to-cart-btnn');
 
-$('.add-to-cart-btn').html('如需查詢及預約請whatsapp 69995659');
-$('.add-to-cart-btn').attr('href','https://wa.me/+85269995659');
+$('.add-to-cart-btn').html('如需查詢及預約請whatsapp 63891918');
+$('.add-to-cart-btn').attr('href','https://wa.me/+85263891918');
 
-//69995659
+//63891918
 
 
 

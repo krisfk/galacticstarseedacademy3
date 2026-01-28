@@ -39,7 +39,7 @@ get_header(); ?>
 
 
             <div class="text-end">
-                <a href="#" class="add-to-cart-btn">如需查詢及預約請whatsapp 69995659</a>
+                <a href="#" class="add-to-cart-btn">如需查詢及預約請whatsapp 63891918</a>
             </div>
 
 
